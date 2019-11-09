@@ -4,6 +4,8 @@
 <a href="https://github.com/seanwatters/reactive-amber/"><img src="https://img.shields.io/badge/using-reactive_amber-darkgrey.svg" ></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-lightblue.svg" ></a>
 
+<a href="https://www.npmjs.com/package/@progressive-amber/react-amber-cli"><img src="https://img.shields.io/badge/version-v0.1.0-lightgrey.svg" ></a>
+
 # Reactive Amber CLI
 
 This is a development tool for quickly scaffolding Amber apps using the [Reactive Amber](https://github.com/seanwatters/reactive-amber) recipe for the framework. 
