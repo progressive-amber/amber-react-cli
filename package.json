@@ -1,6 +1,6 @@
 {
   "name": "@progressive-amber/react-amber-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A development tool for the Reactive Amber recipe.",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "react",
     "reactjs",
     "amber",
-    "amberframework",
-    "reactive-amber"
+    "amber-framework",
+    "react-amber"
   ],
   "author": "Sean Watters",
   "license": "MIT",
