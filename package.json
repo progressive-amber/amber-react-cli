@@ -1,5 +1,5 @@
 {
-  "name": "@progressive-amber/react-amber-cli",
+  "name": "progressive-amber/react-amber-cli",
   "version": "0.1.2",
   "description": "A development tool for the Reactive Amber recipe.",
   "main": "index.js",
